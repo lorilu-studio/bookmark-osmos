@@ -1,3 +1,4 @@
+- [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) 浏览器插件书签收藏 #书签#工具
 - [Maeiee 数字花园](https://garden.maxieewong.com/) 优秀的博主 #技术博客#obsidian
 
 # About
