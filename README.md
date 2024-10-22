@@ -1,3 +1,4 @@
+- [Maven Central](https://central.sonatype.com) 仓库包 #java
 - [扣子-AI 智能体开发平台](https://www.coze.cn/?cate_type=recommend) #ai应用#duan
 - [WildCard](https://bewildcard.com/?code=JJDPH) 海外线上服务 #chatgpt
 - [牧涯前端学习笔记 | 记录一些前端学习的知识](https://muyacode.github.io/FrontEndLearnNotes/) #前端#electron
