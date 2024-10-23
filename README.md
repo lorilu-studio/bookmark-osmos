@@ -1,3 +1,4 @@
+- [应用开发导读-基础入门](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/application-dev-guide-V5) 官方文档 #harmonyos开发
 - [Maven Central](https://central.sonatype.com) 仓库包 #java
 - [扣子-AI 智能体开发平台](https://www.coze.cn/?cate_type=recommend) #ai应用#duan
 - [WildCard](https://bewildcard.com/?code=JJDPH) 海外线上服务 #chatgpt
