@@ -1,3 +1,4 @@
+- [electron-vite | 下一代 Electron 开发构建工具](https://cn.electron-vite.org/) #electron
 - [摄像头测试 – 检测您的电脑或手机摄像头 | 在线麦克风测试](https://www.onlinemictest.com/zh/webcam-test/) #工具
 - [GitHub - lujingtao/html5-camera-demo: html5 camera demo。html5调用摄像头并拍照](https://github.com/lujingtao/html5-camera-demo) 浏览器检测摄像头可用Demo #gist
 - [OpenAI01.net：免费OpenAI 01，无限与OpenAI01聊天](https://openai01.net/zh) openai付费站点 #chatgpt
