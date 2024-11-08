@@ -1,3 +1,4 @@
+- [VitePress | Vite & Vue Powered Static Site Generator](https://vitejs.cn/vitepress/) 静态站点生成器 #vue
 - [dumi](https://d.umijs.org/guide) 静态站点框架 #react
 - [FloatSearch - Free AI Search Engine for Diverse Insights](https://floatsearch.ai/) AI搜索网站
 - [Comparison of web browsers - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers) 浏览器图片格式支持列表
