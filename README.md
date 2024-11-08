@@ -1,3 +1,4 @@
+- [FloatSearch - Free AI Search Engine for Diverse Insights](https://floatsearch.ai/) AI搜索网站
 - [Comparison of web browsers - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers) 浏览器图片格式支持列表
 - [HTML5 audio/video tester - File type player - MIME type tester](https://tools.woolyss.com/html5-audio-video-tester/) 浏览器音频和视频支持测试
 - [electron-vite | 下一代 Electron 开发构建工具](https://cn.electron-vite.org/) #electron
