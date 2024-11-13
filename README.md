@@ -1,3 +1,4 @@
+- [A lightweight Node.js private proxy registry | Verdaccio](https://verdaccio.org/zh-CN/zh-cn/) 基于 Node.js 的轻量级私有仓库
 - [VitePress | Vite & Vue Powered Static Site Generator](https://vitejs.cn/vitepress/) 静态站点生成器 #vue
 - [dumi](https://d.umijs.org/guide) 静态站点框架 #react
 - [FloatSearch - Free AI Search Engine for Diverse Insights](https://floatsearch.ai/) AI搜索网站
