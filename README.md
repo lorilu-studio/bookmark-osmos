@@ -1,3 +1,4 @@
+- [sherpa-ncnn — sherpa 1.3 documentation](https://k2-fsa.github.io/sherpa/ncnn/index.html) #k2-fsa#语音识别asr
 - [新一代 Kaldi - 新一代 Kaldi](https://k2-fsa.org/zh-CN/) #自动语音识别
 - [StackBlitz](https://stackblitz.com/)
 - [Lucide Icons](https://lucide.dev/guide/)
