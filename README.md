@@ -1,3 +1,4 @@
+- [OpenCV/opencv_contrib国内快速下载 - 绕云技术笔记](https://www.raoyunsoft.com/wordpress/index.php/2020/03/09/opencvdownload/) #opencv
 - [OpenCv Releases](https://opencv.org/releases/) #opencv
 - [sherpa-ncnn — sherpa 1.3 documentation](https://k2-fsa.github.io/sherpa/ncnn/index.html) #k2-fsa#语音识别asr
 - [新一代 Kaldi - 新一代 Kaldi](https://k2-fsa.org/zh-CN/) #自动语音识别
