@@ -19,12 +19,12 @@ jobs:
     - name: Checkout bookmark-osmos
       uses: actions/checkout@v2
       with:
-        path: bookmark-osmos
+        path: lorilu-studio/bookmark-osmos
 
     - name: Checkout bookmark-osmos-summary
       uses: actions/checkout@v2
       with:
-        repository: jerrylususu/bookmark-summary
+        repository: lorilu-studio/bookmark-osmos-summary
         path: bookmark-summary
         token: ${{ secrets.PAT }}
 
