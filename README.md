@@ -1,3 +1,4 @@
+- [使用Docker部署全栈Excalidraw](https://www.jamesflare.com/zh-cn/excalidraw-full-stack-docker/)
 - [免费的云数据库PostgreSQL ](https://juejin.cn/post/7411047482651951119)
 - [私有化部署 ExcalidrawExcalidraw 是一款流行的手绘风格白板工具。本文介绍 Excalidraw 的私 - 掘金](https://juejin.cn/post/7398467468875857960)
 - [Y80/bmm: BMM，你的专属书签管家](https://github.com/Y80/bmm)
