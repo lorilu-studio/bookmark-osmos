@@ -19,13 +19,13 @@ jobs:
     - name: Checkout bookmark-osmos
       uses: actions/checkout@v2
       with:
-        path: lorilu-studio/bookmark-osmos
+        path: bookmark-osmos
 
     - name: Checkout bookmark-osmos-summary
       uses: actions/checkout@v2
       with:
         repository: lorilu-studio/bookmark-osmos-summary
-        path: lorilu-studio/bookmark-osmos-summary
+        path: bookmark-osmos-summary
         token: ${{ secrets.PAT }}
 
     - name: Set up Python
