@@ -44,7 +44,7 @@ jobs:
         OPENAI_API_MODEL: ${{ secrets.OPENAI_API_MODEL }}
         OPENAI_API_ENDPOINT: ${{ secrets.OPENAI_API_ENDPOINT }}
       run: |
-        python bookmark-summary/process_changes.py
+        python bookmark-osmos-summary/process_changes.py
 
     - name: Commit changes to bookmark-summary
       run: |
