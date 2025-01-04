@@ -1,3 +1,4 @@
+- [不要轻易地走进 AI Native（AI 原生） – 虹线](https://1q43.blog/post/10736/)
 - [浅谈DSPy和自动化提示词工程（上） - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-dspy-internals-1.html) #提示词
 - [Y80/bmm: BMM，你的专属书签管家 🤵](https://github.com/Y80/bmm)
 - [OpenCV/opencv_contrib国内快速下载 - 绕云技术笔记](https://www.raoyunsoft.com/wordpress/index.php/2020/03/09/opencvdownload/) #opencv
