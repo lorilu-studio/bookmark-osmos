@@ -1,4 +1,4 @@
-name: bookmark-osmos-llm
+name: Bookmark Summary
 
 on:
   push:
@@ -21,11 +21,11 @@ jobs:
       with:
         path: bookmark-osmos
 
-    - name: Checkout bookmark-osmos-llm
+    - name: Checkout bookmark-osmos-summary
       uses: actions/checkout@v2
       with:
-        repository: lorilu-studio/bookmark-osmos-llm
-        path: bookmark-osmos-llm
+        repository: jerrylususu/bookmark-summary
+        path: bookmark-summary
         token: ${{ secrets.PAT }}
 
     - name: Set up Python
@@ -44,11 +44,11 @@ jobs:
         OPENAI_API_MODEL: ${{ secrets.OPENAI_API_MODEL }}
         OPENAI_API_ENDPOINT: ${{ secrets.OPENAI_API_ENDPOINT }}
       run: |
-        python bookmark-osmos-llm/process_changes.py
+        python bookmark-summary/process_changes.py
 
-    - name: Commit changes to bookmark-osmos-llm
+    - name: Commit changes to bookmark-summary
       run: |
-        cd bookmark-osmos-llm
+        cd bookmark-summary
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
