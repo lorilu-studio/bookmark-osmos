@@ -1,3 +1,4 @@
+- [免费的云数据库PostgreSQL ](https://juejin.cn/post/7411047482651951119)
 - [私有化部署 ExcalidrawExcalidraw 是一款流行的手绘风格白板工具。本文介绍 Excalidraw 的私 - 掘金](https://juejin.cn/post/7398467468875857960)
 - [不要轻易地走进 AI Native（AI 原生） – 虹线](https://1q43.blog/post/10736/)
 - [浅谈DSPy和自动化提示词工程（上） - 铁蕾的个人博客](http://zhangtielei.com/posts/blog-dspy-internals-1.html) #提示词
