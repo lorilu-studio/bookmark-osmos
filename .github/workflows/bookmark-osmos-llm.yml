@@ -25,7 +25,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: lorilu-studio/bookmark-osmos-summary
-        path: bookmark-summary
+        path: bookmark-osmos-summary
         token: ${{ secrets.PAT }}
 
     - name: Set up Python
@@ -46,9 +46,9 @@ jobs:
       run: |
         python bookmark-osmos-summary/process_changes.py
 
-    - name: Commit changes to bookmark-summary
+    - name: Commit changes to bookmark-osmos-summary
       run: |
-        cd bookmark-summary
+        cd bookmark-osmos-summary
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
