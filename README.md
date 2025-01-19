@@ -1,3 +1,4 @@
+- [Google Analytics 4 安装和设置教程](https://xn--5hq58jg23b.com/ga4%E5%AE%89%E8%A3%85%E5%92%8C%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B/)
 - [使用Docker部署全栈Excalidraw](https://www.jamesflare.com/zh-cn/excalidraw-full-stack-docker/)
 - [免费的云数据库PostgreSQL ](https://juejin.cn/post/7411047482651951119)
 - [私有化部署 ExcalidrawExcalidraw 是一款流行的手绘风格白板工具。本文介绍 Excalidraw 的私 - 掘金](https://juejin.cn/post/7398467468875857960)
