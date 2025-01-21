@@ -1,3 +1,4 @@
+- [使用mdbook构筑你自己的电子笔记](https://www.aye10032.com/2023/09/12/2023-09-12-mdbook/)
 - [Nginx Proxy Manager使用教程](https://www.golovin.cn/post/11#)
 - [Nginx Proxy Manager申请cloudflare泛域名](https://www.shawhow.com/archives/nginx-proxy-managershen-qing-cloudflarefan-yu-ming)
 - [Google Analytics 4 安装和设置教程](https://xn--5hq58jg23b.com/ga4%E5%AE%89%E8%A3%85%E5%92%8C%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE%E6%95%99%E7%A8%8B/)
