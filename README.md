@@ -1,3 +1,4 @@
+- [docker-compose管理容器 - DevOps学习笔记](https://wnote.com/notes/devops/base/docker-compose.html)
 - [使用mdbook构筑你自己的电子笔记](https://www.aye10032.com/2023/09/12/2023-09-12-mdbook/)
 - [Nginx Proxy Manager使用教程](https://www.golovin.cn/post/11#)
 - [Nginx Proxy Manager申请cloudflare泛域名](https://www.shawhow.com/archives/nginx-proxy-managershen-qing-cloudflarefan-yu-ming)
