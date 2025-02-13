@@ -1,3 +1,4 @@
+- [electron项目icon显示异常](https://www.cnblogs.com/xwwin/p/16581249.html) #electron
 - [docker-compose管理容器 - DevOps学习笔记](https://wnote.com/notes/devops/base/docker-compose.html)
 - [使用mdbook构筑你自己的电子笔记](https://www.aye10032.com/2023/09/12/2023-09-12-mdbook/)
 - [Nginx Proxy Manager使用教程](https://www.golovin.cn/post/11#)
