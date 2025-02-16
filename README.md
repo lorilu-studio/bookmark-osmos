@@ -1,3 +1,4 @@
+- [Deploy Outline via Nginx](https://jiang-taibai.github.io/deploy-outline-via-nginx/#/) Outline部署教程 #markdown#outline
 - [smartyuge/AVBlog](https://github.com/smartyuge/AVBlog) 国内外优秀音视频博客
 - [electron项目icon显示异常](https://www.cnblogs.com/xwwin/p/16581249.html) #electron
 - [docker-compose管理容器 - DevOps学习笔记](https://wnote.com/notes/devops/base/docker-compose.html)
