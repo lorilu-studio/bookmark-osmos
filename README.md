@@ -1,3 +1,4 @@
+- [Intel B580 GPU 大模型容器推理实践：以 DeepSeek R1 Distill Qwen 7B 为例（一）](https://soulteary.com/2025/02/07/intel-b580-gpu-with-docker-and-deepseek-r1-distill-qwen-7b.html)
 - [Deploy Outline via Nginx](https://jiang-taibai.github.io/deploy-outline-via-nginx/#/) Outline部署教程 #markdown#outline
 - [smartyuge/AVBlog](https://github.com/smartyuge/AVBlog) 国内外优秀音视频博客
 - [electron项目icon显示异常](https://www.cnblogs.com/xwwin/p/16581249.html) #electron
