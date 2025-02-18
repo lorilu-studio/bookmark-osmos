@@ -1,3 +1,4 @@
+- [akab/electron-cpp](https://github.com/akab/electron-cpp) electron node cpp make #electron-cpp
 - [我是如何在electron上调用dll的导出函数的 - node-addon-api_electron dll-CSDN博客](https://blog.csdn.net/LingMo_2020/article/details/143130728) electron-cpp node-gyp指南 #electron-cpp
 - [鹏叔的技术博客](https://pengtech.net/network/v2rayN_usage.html) #vpn
 - [Intel B580 GPU 大模型容器推理实践：以 DeepSeek R1 Distill Qwen 7B 为例（一）](https://soulteary.com/2025/02/07/intel-b580-gpu-with-docker-and-deepseek-r1-distill-qwen-7b.html)
