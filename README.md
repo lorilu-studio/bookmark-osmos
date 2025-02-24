@@ -1,3 +1,4 @@
+- [How to install ADB on Windows, macOS, and Linux](https://www.xda-developers.com/install-adb-windows-macos-linux/) 介绍 Windows/macOS/Linux 如何安装 ADB #android
 - [实时音视频_实时消息_实时互动_私有化-anyRTC](https://www.anyrtc.io/) webrtc 产品
 - [C++ Native Addon independent of Node.js version  using Napi/node-addon-api and Cmake](https://gauriatiq.medium.com/c-native-addon-independent-of-node-js-version-using-napi-node-addon-api-and-cmake-53315582cbd1) #electron-cpp
 - [akab/electron-cpp](https://github.com/akab/electron-cpp) electron node cpp make #electron-cpp
