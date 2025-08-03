@@ -1,3 +1,4 @@
+- [bmm](https://bmm.lccl.cc/) 书签管理网站 #书签
 - [新 QQ NT 桌面版如何实现内存优化探索？](https://mp.weixin.qq.com/s/STqlp2eMdeoixedCEhYJgQ) electron 如何进行内存管理
  #electron
 - [书籍推荐Prompt - 飞书云文档](https://xiangyangqiaomu.feishu.cn/wiki/Mr5pwFhyNiZN9lkS941c33OOnPh?fromScene=spaceOverview) #提示词
