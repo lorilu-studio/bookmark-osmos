@@ -1,3 +1,4 @@
+- [信息归处，一目了然：用 Glance 打造家庭服务器仪表盘 - 少数派](https://sspai.com/post/100683) Glance 打造家庭服务器仪表盘 #nas
 - [Rin - 全栈 Cloudflare 的个人博客项目](https://www.xeu.life/feed/12)  Cloudflare 相关博客项目
  #博客
 - [POETIZE - 最美博客](https://poetize.cn) 付费永久博客，个人网站系统 #博客
