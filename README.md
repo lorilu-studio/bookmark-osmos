@@ -1,3 +1,4 @@
+- [书籍推荐Prompt - 飞书云文档](https://xiangyangqiaomu.feishu.cn/wiki/Mr5pwFhyNiZN9lkS941c33OOnPh?fromScene=spaceOverview) #提示词
 - [Namecheap](https://www.namecheap.com/domains/registration/results/?domain=miniasr.ai) 域名服务器
 - [IT Tools - Handy online tools for developers](https://it-tools.tech) 工具、书签，适合放在自己的网站里 #tools
 - [信息归处，一目了然：用 Glance 打造家庭服务器仪表盘 - 少数派](https://sspai.com/post/100683) Glance 打造家庭服务器仪表盘 #nas
